@@ -4,41 +4,41 @@
         <title>Your Website RSS Feed</title>
         <link>https://www.yourwebsite.com/</link>
         <description>Your Website Description</description>
-        <lastBuildDate>Wed, July 4 2018</lastBuildDate>
+        <lastBuildDate>Wed, July 4 2023</lastBuildDate>
+        <image>
+            <url>https://www.yourwebsite.com/logo.jpg</url>
+            <title>Your Website Logo</title>
+            <link>https://www.yourwebsite.com/</link>
+        </image>
         <item>
             <title>Entry Title</title>
             <link>URL Link to the entry</link>
             <guid>https://www.yourwebsite.com/?p=584674</guid>
             <description>This is the description of the content...</description>
-            <pubDate>Wed, July 4 2018</pubDate>
+            <pubDate>Wed, July 4 2023</pubDate>
+            <category>Technology</category>
+            <author>Author Name (author@example.com)</author>
+            <comments>URL Link to the comments section</comments>
         </item>
         <item>
             <title>Entry Title</title>
             <link>URL Link to the entry</link>
-            <guid>https://www.yourwebsite.com/?p=584674</guid>
+            <guid>https://www.yourwebsite.com/?p=584675</guid>
             <description>This is the description of the content...</description>
-            <pubDate>Wed, July 4 2018</pubDate>
+            <pubDate>Wed, July 5 2023</pubDate>
+            <category>Science</category>
+            <author>Author Name (author@example.com)</author>
+            <comments>URL Link to the comments section</comments>
         </item>
         <item>
             <title>Entry Title</title>
             <link>URL Link to the entry</link>
-            <guid>https://www.yourwebsite.com/?p=584674</guid>
+            <guid>https://www.yourwebsite.com/?p=584676</guid>
             <description>This is the description of the content...</description>
-            <pubDate>Wed, July 4 2018</pubDate>
-        </item>
-        <item>
-            <title>Entry Title</title>
-            <link>URL Link to the entry</link>
-            <guid>https://www.yourwebsite.com/?p=584674</guid>
-            <description>This is the description of the content...</description>
-            <pubDate>Wed, July 4 2018</pubDate>
-        </item>
-        <item>
-            <title>Entry Title</title>
-            <link>URL Link to the entry</link>
-            <guid>https://www.yourwebsite.com/?p=584674</guid>
-            <description>This is the description of the content...</description>
-            <pubDate>Wed, July 4 2018</pubDate>
+            <pubDate>Wed, July 6 2023</pubDate>
+            <category>Business</category>
+            <author>Author Name (author@example.com)</author>
+            <comments>URL Link to the comments section</comments>
         </item>
     </channel>
 </rss>
