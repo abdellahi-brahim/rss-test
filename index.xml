@@ -11,15 +11,25 @@
             <link>https://www.techinsight.com/</link>
         </image>
         <item>
-            <title>How AI is Transforming the Tech Industry</title>
-            <link>https://www.techinsight.com/ai-transforming-tech-industry</link>
-            <guid>https://www.techinsight.com/?p=584674</guid>
-            <description>In this article, we delve into how AI is making huge waves in the technology industry...</description>
-            <pubDate>Tue, July 11 2023</pubDate>
-            <category>Artificial Intelligence</category>
-            <author>Jane Smith (jane.smith@techinsight.com)</author>
-            <comments>https://www.techinsight.com/ai-transforming-tech-industry#comments</comments>
-        </item>
+            <title>Amazing New Product Launched!</title>
+            <link>https://www.example.com/blog/new-product</link>
+            <pubDate>Fri, 28 May 2021 16:00:00 GMT</pubDate>
+            <guid>https://www.example.com/blog/new-product</guid>
+            <description>
+                <![CDATA[
+                    <h2>Today we launched our Amazing New Product!</h2>
+                    <p>We're delighted to announce the release of our brand new product. It's been in the making for several months and we believe it's the best in its class.</p>
+                    <p><strong>Product Features:</strong></p>
+                    <ul>
+                        <li>Feature 1</li>
+                        <li>Feature 2</li>
+                        <li>Feature 3</li>
+                    </ul>
+                    <p><img src='https://www.example.com/images/new_product.jpg' alt='New product'></p>
+                    <p>We're eager to hear what you think. Visit our website for more details.</p>
+                ]]>
+            </description>
+        </item> 
         <item>
             <title>The Future of Quantum Computing</title>
             <link>https://www.techinsight.com/future-quantum-computing</link>
