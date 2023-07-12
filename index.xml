@@ -4,9 +4,9 @@
         <title>Latest Tech Articles</title>
         <link>https://www.techinsight.com/</link>
         <description>Stay updated with the latest articles in the technology industry</description>
-        <lastBuildDate>Tue, July 11 2023</lastBuildDate>
+        <lastBuildDate>Tue, 11 July 2023</lastBuildDate>
         <image>
-            <url>https://logo.com/image-cdn/images/kts928pd/production/a195406f1cbf3510e8901abf512267d4a80d2230-359x359.png?w=1080&q=80</url>
+            <url>https://logo.com/image-cdn/images/kts928pd/production/a195406f1cbf3510e8901abf512267d4a80d2230-359x359.png?w=1080&amp;q=80</url>
             <title>TechInsight Logo</title>
             <link>https://www.techinsight.com/</link>
         </image>
@@ -35,7 +35,7 @@
             <link>https://www.techinsight.com/future-quantum-computing</link>
             <guid>https://www.techinsight.com/?p=584675</guid>
             <description>Quantum computing holds the key to a host of exciting and complex computational problems...</description>
-            <pubDate>Wed, July 12 2023</pubDate>
+            <pubDate>Wed, 12 July 2023</pubDate>
             <category>Quantum Computing</category>
             <author>John Doe (john.doe@techinsight.com)</author>
             <comments>https://www.techinsight.com/future-quantum-computing#comments</comments>
@@ -45,7 +45,7 @@
             <link>https://www.techinsight.com/exploring-world-cryptocurrencies</link>
             <guid>https://www.techinsight.com/?p=584676</guid>
             <description>From Bitcoin to Ethereum, we dive into the buzzing world of cryptocurrencies and how they're changing the financial landscape...</description>
-            <pubDate>Thu, July 13 2023</pubDate>
+            <pubDate>Thu, 13 July 2023</pubDate>
             <category>Cryptocurrencies</category>
             <author>Alice Johnson (alice.johnson@techinsight.com)</author>
             <comments>https://www.techinsight.com/exploring-world-cryptocurrencies#comments</comments>
