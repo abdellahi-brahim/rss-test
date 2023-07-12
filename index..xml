@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Your Website RSS Feed</title>
+        <link>https://www.yourwebsite.com/</link>
+        <description>Your Website Description</description>
+        <lastBuildDate>Wed, July 4 2018</lastBuildDate>
+        <item>
+            <title>Entry Title</title>
+            <link>URL Link to the entry</link>
+            <guid>https://www.yourwebsite.com/?p=584674</guid>
+            <description>This is the description of the content...</description>
+            <pubDate>Wed, July 4 2018</pubDate>
+        </item>
+    </channel>
+</rss>
