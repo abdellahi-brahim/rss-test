@@ -1,5 +1,15 @@
-<book>
-    <title>The Great Gatsby</title>
-    <author>F. Scott Fitzgerald</author>
-    <year>1925</year>
-</book>
+<?xml version="1.0"?>
+<bookstore>
+  <book id="book1">
+    <title>Harry Potter</title>
+    <author>J.K. Rowling</author>
+    <year>2000</year>
+    <price>29.99</price>
+  </book>
+  <book id="book2">
+    <title>Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1954</year>
+    <price>39.99</price>
+  </book>
+</bookstore>
