@@ -1,15 +1,14 @@
-<?xml version="1.0"?>
-<bookstore>
-  <book id="book1">
-    <title>Harry Potter</title>
-    <author>J.K. Rowling</author>
-    <year>2000</year>
-    <price>29.99</price>
-  </book>
-  <book id="book2">
-    <title>Lord of the Rings</title>
-    <author>J.R.R. Tolkien</author>
-    <year>1954</year>
-    <price>39.99</price>
-  </book>
-</bookstore>
+<books>
+    <book>
+        <id>1</id>
+        <title>Book Title 1</title>
+        <description>Description 1</description>
+        <date>2023-01-01</date>
+    </book>
+    <book>
+        <id>2</id>
+        <title>Book Title 2</title>
+        <description>Description 2</description>
+        <date>2023-01-02</date>
+    </book>
+</books>
