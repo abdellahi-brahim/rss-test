@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
     <channel>
         <title>Latest Tech Articles</title>
         <link>https://www.techinsight.com/</link>
@@ -40,3 +41,4 @@
             <comments>https://www.techinsight.com/exploring-world-cryptocurrencies#comments</comments>
         </item>
     </channel>
+</rss>
