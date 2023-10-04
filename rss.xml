@@ -17,7 +17,7 @@
             <pubDate>Tue, 01 Oct 2023 12:00:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=1"/>
             <media:content url="https://picsum.photos/200/300?random=2"/>
-            <category>Edition 5</category>
+            <category>Page 1</category>
             <priority>1</priority>
         </item>
 
@@ -33,7 +33,7 @@
             <pubDate>Wed, 02 Oct 2023 14:30:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=3"/>
             <media:content url="https://picsum.photos/200/300?random=4"/>
-            <category>Edition 5</category>
+            <category>Page 1</category>
             <priority>2</priority>
         </item>
 
@@ -49,8 +49,8 @@
             <pubDate>Thu, 03 Oct 2023 16:45:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=5"/>
             <media:content url="https://picsum.photos/200/300?random=6"/>
-            <category>Edition 5</category>
-            <priority>3</priority>
+            <category>Page 2</category>
+            <priority>1</priority>
         </item>
 
         <item>
@@ -65,24 +65,8 @@
             <pubDate>Fri, 04 Oct 2023 18:15:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=7"/>
             <media:content url="https://picsum.photos/200/300?random=8"/>
-            <category>Edition 5</category>
-            <priority>4</priority>
-        </item>
-
-        <item>
-            <title>News</title>
-            <link>http://ubuntu18/news/index.xml</link>
-            <description>News</description>
-            <content:encoded><![CDATA[
-                <p>The 15 latest headlines are listed below. View all headlines for 2006.</p>
-            ]]></content:encoded>
-            <author>Jane Smith</author>
-            <guid isPermaLink="false">3c9ce3c8-0000-4000-933a-0000b7d6055c</guid>
-            <pubDate>Sat, 05 Oct 2023 20:30:00 GMT</pubDate>
-            <media:content url="https://picsum.photos/200/300?random=9"/>
-            <media:content url="https://picsum.photos/200/300?random=10"/>
-            <category>Edition 5</category>
-            <priority>5</priority>
+            <category>Page 2</category>
+            <priority>2</priority>
         </item>
 
     </channel>
