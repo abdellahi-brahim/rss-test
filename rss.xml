@@ -1,1 +1,105 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Site News RSS</title>
+        <link>http://ubuntu18/</link>
+        <description>Roxen Site News Feed</description>
+        <item>
+            <title>Example 2</title>
+            <link>http://ubuntu18//news/2006/example-2/index.xml</link>
+            <description>
+                <descriptionData>
+                    <headerTitle></headerTitle>
+                    <headerSubtitle></headerSubtitle>
+                    <picture>
+                        <title>Lorem ipsum dolor sit amet, consectetuer adipiscing</title>
+                        <subtitle></subtitle>
+                        <text>Duis autem vel eum iriure dolor in hendrerit in vulputate
+                            velit esse molestie consequat, vel illum dolore eu feugiat
+                            nulla facilisis at vero eros et accumsan et iusto odio
+                            dignissim qui blandit praesent luptatum zzril delenit augue
+                            duis dolore te feugait nulla facilisi. Nam liber tempor cum
+                            soluta nobis eleifend option congue nihil.</text>
+                    </picture>
+                </descriptionData>
+            </description>
+            <author>2</author>
+            <guid isPermaLink="false">97e5eea8-0000-4000-8b28-0000e58d2b0b</guid>
+        </item>
+        <item>
+            <title>News</title>
+            <link>http://ubuntu18//news/index.xml</link>
+            <description>
+                <descriptionData>
+                    <headerTitle>News</headerTitle>
+                    <headerSubtitle></headerSubtitle>
+                    <picture>
+                        <title></title>
+                        <subtitle></subtitle>
+                        <text>The 15 latest headlines are listed below. View all
+                            headlines for 2006.</text>
+                    </picture>
+                </descriptionData>
+            </description>
+            <author>2</author>
+            <guid isPermaLink="false">3c9ce3c8-0000-4000-933a-0000b7d6055c</guid>
+        </item>
+        <item>
+            <title>Example 1</title>
+            <link>http://ubuntu18//news/2006/example-1/index.xml</link>
+            <description>
+                <descriptionData>
+                    <headerTitle></headerTitle>
+                    <headerSubtitle></headerSubtitle>
+                    <picture>
+                        <title>Lorem ipsum dolor sit amet</title>
+                        <subtitle></subtitle>
+                        <text>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+                            diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+                            aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+                            nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+                            aliquip ex ea commodo consequat.</text>
+                    </picture>
+                </descriptionData>
+            </description>
+            <author>2</author>
+            <guid isPermaLink="false">96395550-0000-4000-ab97-0000291142b8</guid>
+        </item>
+        <item>
+            <title>2006</title>
+            <link>http://ubuntu18//news/2006/index.xml</link>
+            <description>
+                <descriptionData>
+                    <headerTitle>Headlines 2006</headerTitle>
+                    <headerSubtitle></headerSubtitle>
+                    <picture>
+                        <title></title>
+                        <subtitle></subtitle>
+                        <text>All headlines for 2006. Enter Edit Mode to view unpublished
+                            headlines.</text>
+                    </picture>
+                </descriptionData>
+            </description>
+            <author>2</author>
+            <guid isPermaLink="false">bf60ed73-0000-4000-8d5e-00005fa275a3</guid>
+        </item>
+        <item>
+            <title>News</title>
+            <link>http://ubuntu18//news/index.xml</link>
+            <description>
+                <descriptionData>
+                    <headerTitle>News</headerTitle>
+                    <headerSubtitle></headerSubtitle>
+                    <picture>
+                        <title></title>
+                        <subtitle></subtitle>
+                        <text>The 15 latest headlines are listed below. View all
+                            headlines for 2006.</text>
+                    </picture>
+                </descriptionData>
+            </description>
+            <author>2</author>
+            <guid isPermaLink="false">3c9ce3c8-0000-4000-933a-0000b7d6055c</guid>
+        </item>
+    </channel>
+</rss>
