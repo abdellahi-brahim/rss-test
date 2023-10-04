@@ -11,17 +11,14 @@
             <description>Lorem ipsum dolor sit amet, consectetuer adipiscing</description>
             <content:encoded><![CDATA[
                 <p>Duis autem vel eum iriure dolor in hendrerit in vulputate...</p>
-                <ul>
-                    <li>List item 1</li>
-                    <li>List item 2</li>
-                </ul>
-                <strong>Highlighted text</strong>
             ]]></content:encoded>
             <author>John Doe</author>
             <guid isPermaLink="false">97e5eea8-0000-4000-8b28-0000e58d2b0b</guid>
             <pubDate>Tue, 01 Oct 2023 12:00:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=1"/>
             <media:content url="https://picsum.photos/200/300?random=2"/>
+            <category>Edition 5</category>
+            <priority>1</priority>
         </item>
 
         <item>
@@ -36,6 +33,8 @@
             <pubDate>Wed, 02 Oct 2023 14:30:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=3"/>
             <media:content url="https://picsum.photos/200/300?random=4"/>
+            <category>Edition 5</category>
+            <priority>2</priority>
         </item>
 
         <item>
@@ -50,6 +49,8 @@
             <pubDate>Thu, 03 Oct 2023 16:45:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=5"/>
             <media:content url="https://picsum.photos/200/300?random=6"/>
+            <category>Edition 5</category>
+            <priority>3</priority>
         </item>
 
         <item>
@@ -64,6 +65,8 @@
             <pubDate>Fri, 04 Oct 2023 18:15:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=7"/>
             <media:content url="https://picsum.photos/200/300?random=8"/>
+            <category>Edition 5</category>
+            <priority>4</priority>
         </item>
 
         <item>
@@ -78,6 +81,8 @@
             <pubDate>Sat, 05 Oct 2023 20:30:00 GMT</pubDate>
             <media:content url="https://picsum.photos/200/300?random=9"/>
             <media:content url="https://picsum.photos/200/300?random=10"/>
+            <category>Edition 5</category>
+            <priority>5</priority>
         </item>
 
     </channel>
