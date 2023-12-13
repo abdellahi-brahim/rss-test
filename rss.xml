@@ -1,73 +1,254 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Site News RSS</title>
-        <link>http://ubuntu18/</link>
-        <description>Roxen Site News Feed</description>
-        
-        <item>
-            <title>Example 2</title>
-            <link>http://ubuntu18/news/2006/example-2/index.xml</link>
-            <description>Lorem ipsum dolor sit amet, consectetuer adipiscing</description>
-            <content:encoded><![CDATA[
-                <p>Duis autem vel eum iriure dolor in hendrerit in vulputate...</p>
-            ]]></content:encoded>
-            <author>John Doe</author>
-            <guid isPermaLink="false">97e5eea8-0000-4000-8b28-0000e58d2b0b</guid>
-            <pubDate>Tue, 01 Oct 2023 12:00:00 GMT</pubDate>
-            <media:content url="https://picsum.photos/200/300?random=1"/>
-            <media:content url="https://picsum.photos/200/300?random=2"/>
-            <category>Page 1</category>
-            <priority>1</priority>
-        </item>
-
-        <item>
-            <title>News</title>
-            <link>http://ubuntu18/news/index.xml</link>
-            <description>News</description>
-            <content:encoded><![CDATA[
-                <p>The 15 latest headlines are listed below. View all headlines for 2006.</p>
-            ]]></content:encoded>
-            <author>Jane Smith</author>
-            <guid isPermaLink="false">3c9ce3c8-0000-4000-933a-0000b7d6055c</guid>
-            <pubDate>Wed, 02 Oct 2023 14:30:00 GMT</pubDate>
-            <media:content url="https://picsum.photos/200/300?random=3"/>
-            <media:content url="https://picsum.photos/200/300?random=4"/>
-            <category>Page 1</category>
-            <priority>2</priority>
-        </item>
-
-        <item>
-            <title>Example 1</title>
-            <link>http://ubuntu18/news/2006/example-1/index.xml</link>
-            <description>Lorem ipsum dolor sit amet</description>
-            <content:encoded><![CDATA[
-                <p>Lorem ipsum dolor sit amet, consectetuer...</p>
-            ]]></content:encoded>
-            <author>John Doe</author>
-            <guid isPermaLink="false">96395550-0000-4000-ab97-0000291142b8</guid>
-            <pubDate>Thu, 03 Oct 2023 16:45:00 GMT</pubDate>
-            <media:content url="https://picsum.photos/200/300?random=5"/>
-            <media:content url="https://picsum.photos/200/300?random=6"/>
-            <category>Page 2</category>
-            <priority>1</priority>
-        </item>
-
-        <item>
-            <title>2006</title>
-            <link>http://ubuntu18/news/2006/index.xml</link>
-            <description>Headlines 2006</description>
-            <content:encoded><![CDATA[
-                <p>All headlines for 2006. Enter Edit Mode to view unpublished headlines.</p>
-            ]]></content:encoded>
-            <author>Jane Smith</author>
-            <guid isPermaLink="false">bf60ed73-0000-4000-8d5e-00005fa275a3</guid>
-            <pubDate>Fri, 04 Oct 2023 18:15:00 GMT</pubDate>
-            <media:content url="https://picsum.photos/200/300?random=7"/>
-            <media:content url="https://picsum.photos/200/300?random=8"/>
-            <category>Page 2</category>
-            <priority>2</priority>
-        </item>
-
-    </channel>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Roxen Site News Feed</title>
+<link>https://prisma-website.tst.prisma-it.com</link>
+<description>Roxen Site News Feed</description>
+<item>
+<title>Bekijk al je recente werk</title>
+<description>
+<![CDATA[ Concepten nu ook zichtbaar in het menu Bekijk via&nbsp;het menu je meest recente werk en ongepubliceerde playlists. Pak met het nieuwe menu overzicht gemakkelijk je werk op na bijvoorbeeld een pauze.&nbsp;&nbsp; ]]>
+</description>
+<content:encoded>
+<![CDATA[ Concepten nu ook zichtbaar in het menu Bekijk via&nbsp;het menu je meest recente werk en ongepubliceerde playlists. Pak met het nieuwe menu overzicht gemakkelijk je werk op na bijvoorbeeld een pauze.&nbsp;&nbsp; ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-13</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/42d9ff29-3fc2-425e-b076-f3849392e137.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Versterk de merkbeleving met het WIFI uitgangskanaal</title>
+<description>
+<![CDATA[ Maak gebruik van elk touchpoint Creëer meer merkzichtbaarheid door een uitgangskanaal voor de Gast wifi te activeren nadat externen gebruik hebben gemaakt van de wifi.&nbsp;&nbsp;De uitgangspagina straalt professionaliteit uit en kan door het delen van nieuwsberichten bezoekers informeren.&nbsp;... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Maak gebruik van elk touchpoint Creëer meer merkzichtbaarheid door een uitgangskanaal voor de Gast wifi te activeren nadat externen gebruik hebben gemaakt van de wifi.&nbsp;&nbsp;De uitgangspagina straalt professionaliteit uit en kan door het delen van nieuwsberichten bezoekers informeren.&nbsp;... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-16</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/dd0cfd76-bb69-480c-b9f4-d07dbf316769.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Login logs</title>
+<description>
+<![CDATA[ Houdt bij welke gebruiker, wanneer inlogt. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Houdt bij welke gebruiker, wanneer inlogt. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-5</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/6d344d03-eea2-4b2c-ab28-ad54bb3a9d23.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Nieuwe naam voor menu onderdelen</title>
+<description>
+<![CDATA[ Waar je je artikelen en e-mailmarketing vanaf nu terug kunt vinden Onder het kopje ‘’samenstellen’’ kun je artikelen creëren en koppelen aan een playlist. ‘’Samenstellen’’ is nu veranderd&nbsp;in ‘’artikelen’’.&nbsp; Zo weet elke gebruiker zonder te zoeken, waar er nieuwe uitzendingen gemaakt en... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Waar je je artikelen en e-mailmarketing vanaf nu terug kunt vinden Onder het kopje ‘’samenstellen’’ kun je artikelen creëren en koppelen aan een playlist. ‘’Samenstellen’’ is nu veranderd&nbsp;in ‘’artikelen’’.&nbsp; Zo weet elke gebruiker zonder te zoeken, waar er nieuwe uitzendingen gemaakt en... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-3</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/e6a97cf0-95a6-4a4c-b3bf-c459b520cf1f.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Meer informatie beschikbaar over actieve playlists</title>
+<description>
+<![CDATA[ Een uitgebreid overzicht van al je content Weet waar en wanneer je content speelt In CooCoo kun je een playlist op &nbsp;meerdere schermen tegelijkertijd laten afspelen. Deze informatie wordt vanaf nu standaard getoond, zodat je altijd weet op hoeveel schermen je content te zien is. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Een uitgebreid overzicht van al je content Weet waar en wanneer je content speelt In CooCoo kun je een playlist op &nbsp;meerdere schermen tegelijkertijd laten afspelen. Deze informatie wordt vanaf nu standaard getoond, zodat je altijd weet op hoeveel schermen je content te zien is. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-12</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/674ddf0a-bbef-40ea-9619-e8c1f1906ea4.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Foutje? Grijp terug naar een eerdere versie van je playlist</title>
+<description>
+<![CDATA[ Oude playlist terughalen met publicatiegeschiedenis feature Een vergissing is snel gemaakt. Met CooCoo kun je gelukkig moeiteloos terug naar een eerder&nbsp;gepubliceerde playlist. Daardoor beschik je nu ook over&nbsp;mooi overzicht met wijzigingen die er in de loop der tijd zijn gemaakt. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Oude playlist terughalen met publicatiegeschiedenis feature Een vergissing is snel gemaakt. Met CooCoo kun je gelukkig moeiteloos terug naar een eerder&nbsp;gepubliceerde playlist. Daardoor beschik je nu ook over&nbsp;mooi overzicht met wijzigingen die er in de loop der tijd zijn gemaakt. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-11</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/56d673c1-672f-4fdb-b33d-697e80df8b14.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Behoud alleen de playlists die je gebruikt</title>
+<description>
+<![CDATA[ Beperk het aantal playlists Voorkom een wildgroei van playlists door het instellen van een maximum aantal playlists. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Beperk het aantal playlists Voorkom een wildgroei van playlists door het instellen van een maximum aantal playlists. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-7</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/559c8a1e-945a-4404-8d8e-b9164118047d.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Aanvullende informatie afspeellijsten beschikbaar</title>
+<description>
+<![CDATA[ Meer informatie in een oogopslag&nbsp; Weet wat er speelt.&nbsp;Voor de module narrowcasting is vanaf nu aanvullende informatie over de speellijsten beschikbaar. Handig als je bijvoorbeeld de omvang van de afspeellijst wilt aanpassen.&nbsp;   Neem voor meer informatie contact op met onze suppor... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Meer informatie in een oogopslag&nbsp; Weet wat er speelt.&nbsp;Voor de module narrowcasting is vanaf nu aanvullende informatie over de speellijsten beschikbaar. Handig als je bijvoorbeeld de omvang van de afspeellijst wilt aanpassen.&nbsp;   Neem voor meer informatie contact op met onze suppor... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-18</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/825d0da9-84d8-4f83-a96b-bcce5c3d312a.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Plan vooruit</title>
+<description>
+<![CDATA[ Uitgebreidere planningsmogelijkheden van narrowcasting playlists&nbsp; Vanaf nu is het mogelijk om de planning van playlists overgangen, meerdere dagen vooruit te plannen. Dit geeft je&nbsp;meer flexibiliteit om jouw content te presenteren. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Uitgebreidere planningsmogelijkheden van narrowcasting playlists&nbsp; Vanaf nu is het mogelijk om de planning van playlists overgangen, meerdere dagen vooruit te plannen. Dit geeft je&nbsp;meer flexibiliteit om jouw content te presenteren. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-8</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/a98ded7b-4f03-484f-bfa5-d78934b20795.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Blijf zichtbaar voor klanten en/of bezoekers</title>
+<description>
+<![CDATA[ Verbeterde offline functionaliteit voor narrowcasting Narrowcasting schermen zijn nu nog beter bestand tegen onderbrekingen in het netwerk. Hierdoor blijft jouw&nbsp;content zichtbaar ook in het geval dat je internetverbinding wegvalt.&nbsp; ]]>
+</description>
+<content:encoded>
+<![CDATA[ Verbeterde offline functionaliteit voor narrowcasting Narrowcasting schermen zijn nu nog beter bestand tegen onderbrekingen in het netwerk. Hierdoor blijft jouw&nbsp;content zichtbaar ook in het geval dat je internetverbinding wegvalt.&nbsp; ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-6</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/8c7754a9-2c81-482a-abee-8d7e6f63334b.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Werk samen aan publicaties</title>
+<description>
+<![CDATA[ Aanpassingen indienen De rol van redacteur en eindredacteur is verder uitgebreid met een mogelijkheid om aanpassingen in te dienen. Een redacteur kan vanaf nu werk indienen wat vervolgens bij de eindredacteur terecht komt. De eindredacteur maakt de aanpassing na goedkeuring zichtbaar met een roo... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Aanpassingen indienen De rol van redacteur en eindredacteur is verder uitgebreid met een mogelijkheid om aanpassingen in te dienen. Een redacteur kan vanaf nu werk indienen wat vervolgens bij de eindredacteur terecht komt. De eindredacteur maakt de aanpassing na goedkeuring zichtbaar met een roo... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-10</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/c146f36c-0014-461b-9fb6-c8481e755aca.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Weet wat er speelt met de vernieuwde weergave</title>
+<description>
+<![CDATA[ Werk sneller en gemakkelijker Het overzicht op de 'samenstellen'&nbsp;en 'uitzendingen'&nbsp;pagina krijgt een nieuwe uitstraling. Hierdoor kun jij bijvoorbeeld makkelijker een artikel aan een uitzending toewijzen. Maar ook in een oogopslag terugvinden tot welke afspeellijsten een artikel behoor... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Werk sneller en gemakkelijker Het overzicht op de 'samenstellen'&nbsp;en 'uitzendingen'&nbsp;pagina krijgt een nieuwe uitstraling. Hierdoor kun jij bijvoorbeeld makkelijker een artikel aan een uitzending toewijzen. Maar ook in een oogopslag terugvinden tot welke afspeellijsten een artikel behoor... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-19</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/b7fd4bcf-8b3c-43f0-8cdc-30776890ad14.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Creëer als partner zelf nieuwe omgevingen</title>
+<description>
+<![CDATA[ Maak als Prisma partner zelf digitale omgevingen voor klanten Partners kunnen voor hun eigen klanten .coocoo.cloud login omgevingen maken. Dit scheelt tijd en klantcontact. Zonder tussenkomst kun je direct de klant van dienst zijn. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Maak als Prisma partner zelf digitale omgevingen voor klanten Partners kunnen voor hun eigen klanten .coocoo.cloud login omgevingen maken. Dit scheelt tijd en klantcontact. Zonder tussenkomst kun je direct de klant van dienst zijn. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-4</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/f24551bb-75cb-4a67-a49f-ac9b02ce45ce.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Testes!</title>
+<description>
+<![CDATA[ Stel als Prisma&nbsp;partner voor je gebruikers een maximum aantal uitzendingen in Handig voor wanneer klanten een bepaald aantal uitzendingen hebben aangeschaft. Gebruikers zien dan ook direct hoeveel uitzendingen zij in gebruik hebben en hoeveel zij nog kunnen delen op het platform. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Stel als Prisma&nbsp;partner voor je gebruikers een maximum aantal uitzendingen in Handig voor wanneer klanten een bepaald aantal uitzendingen hebben aangeschaft. Gebruikers zien dan ook direct hoeveel uitzendingen zij in gebruik hebben en hoeveel zij nog kunnen delen op het platform. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>comp:00003d89db82:0000000002:281e</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/16d2ce2f-1c89-431b-8af1-e21911a07f20.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Blijf kijkers verrassen met je content</title>
+<description>
+<![CDATA[ Shuffle de content van een playlist Prikkel je kijkers en verhoog de attentiewaarde van je playlist door regelmatig de volgorde&nbsp;waarin content wordt getoond&nbsp;te wisselen.&nbsp; ]]>
+</description>
+<content:encoded>
+<![CDATA[ Shuffle de content van een playlist Prikkel je kijkers en verhoog de attentiewaarde van je playlist door regelmatig de volgorde&nbsp;waarin content wordt getoond&nbsp;te wisselen.&nbsp; ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-9</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/da6378d0-ff37-4d56-b304-4eb1aa8d14af.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Monitor jouw CooCoo schermen</title>
+<description>
+<![CDATA[ Grijp&nbsp;direct in bij een eventuele&nbsp;storing Bekijk nu continu alle statussen van schermen en de infrastructuur eromheen.&nbsp; Mocht er een probleem zijn met een scherm kun je nu proactief handelen doordat problemen sneller gedetecteerd worden. Garandeer content zekerheid met CooCoo.&nbs... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Grijp&nbsp;direct in bij een eventuele&nbsp;storing Bekijk nu continu alle statussen van schermen en de infrastructuur eromheen.&nbsp; Mocht er een probleem zijn met een scherm kun je nu proactief handelen doordat problemen sneller gedetecteerd worden. Garandeer content zekerheid met CooCoo.&nbs... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-15</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/8ebcf76e-140d-4c73-9635-25e91f788092.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Filter op relevante content</title>
+<description>
+<![CDATA[ Filter op relevante content op basis van locatie Heb je te maken met meerdere locaties die in één dezelfde centrale omgeving inloggen? Filter dan op basis van locatie op de relevante wayfinding. Zo zie je alleen relevante informatie die betrekking heeft op jouw eigen locatie. ]]>
+</description>
+<content:encoded>
+<![CDATA[ Filter op relevante content op basis van locatie Heb je te maken met meerdere locaties die in één dezelfde centrale omgeving inloggen? Filter dan op basis van locatie op de relevante wayfinding. Zo zie je alleen relevante informatie die betrekking heeft op jouw eigen locatie. ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-2</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/fa5df234-48e4-49e8-8bc7-21fb8ee1a20d.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Maak indruk met de Dynamische Ledwall</title>
+<description>
+<![CDATA[ Biedt&nbsp;een unieke ervaring Maak gebruik van de nieuwe dynamische ledwall om content op grote lcd-schermen te tonen. Ongeacht grootte, kun je in 4k of zelfs 8k indruk maken met de hoge resolutie. Deel een scherm eenvoudig in met contentmodules en toon daarbij informatie afkomstig uit externe ... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Biedt&nbsp;een unieke ervaring Maak gebruik van de nieuwe dynamische ledwall om content op grote lcd-schermen te tonen. Ongeacht grootte, kun je in 4k of zelfs 8k indruk maken met de hoge resolutie. Deel een scherm eenvoudig in met contentmodules en toon daarbij informatie afkomstig uit externe ... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-17</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/4c1076b9-3c39-4d50-801b-d6c250e6e3b2.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+<item>
+<title>Ga langdradige content tegen</title>
+<description>
+<![CDATA[ Beperk de duur van uitzendingen Op locaties met een snelle doorstroom moet content kort&nbsp;maar wel&nbsp;krachtig&nbsp;zichtbaar&nbsp;zijn om een&nbsp;hoge attentiewaarde&nbsp;te creëren. Voorkom&nbsp;daarom met deze nieuwe feature&nbsp;dat er te lange videos geplaatst worden. Stel&nbsp;de&nbs... ]]>
+</description>
+<content:encoded>
+<![CDATA[ Beperk de duur van uitzendingen Op locaties met een snelle doorstroom moet content kort&nbsp;maar wel&nbsp;krachtig&nbsp;zichtbaar&nbsp;zijn om een&nbsp;hoge attentiewaarde&nbsp;te creëren. Voorkom&nbsp;daarom met deze nieuwe feature&nbsp;dat er te lange videos geplaatst worden. Stel&nbsp;de&nbs... ]]>
+</content:encoded>
+<author>Unknown</author>
+<guid>coocoo-article-component-14</guid>
+<media:content url="https://prisma-it.acc.prisma-it.com/BlazeDS/documents/10157/db3fad9a-e0ca-437f-9de4-aeb6a14c371d.png"/>
+<pubDate>Wed, 13 Dec 2023 10:21:08 GMT </pubDate>
+</item>
+</channel>
 </rss>
